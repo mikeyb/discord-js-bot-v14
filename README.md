@@ -2,6 +2,13 @@
 
 An opinionated discord.js v14 bot template. Maximum setup of a minimal v14 bot.
 
+# Donate
+If this helps you, please consider a small donation in ETH or BTC:
+
+- `ETH`: 0xb360709D085cE050B9D031fdaE5dB14b53329D58
+- `BTC`: 1M6yN9UDPEDRWWwUyGFdCNsB6gKjgmVMEX
+
+
 # Setup
 
 ```
