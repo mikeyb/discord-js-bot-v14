@@ -1,0 +1,30 @@
+{
+    "name": "discord-js-bot-v14",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "prettier": "prettier --write .",
+        "start": "node bot.js",
+        "deploy-commands-guild": "cd scripts; node deploy-commands-guild.js",
+        "deploy-commands-global": "cd scripts; node deploy-commands-global.js"
+    },
+    "engines": {
+        "node": ">=16.19.0",
+        "yarn": ">=1.22.18",
+        "npm": "please use yarn"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.7.1"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^17.3.0",
+        "@commitlint/config-conventional": "^17.3.0",
+        "eslint": "^8.29.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "prettier": "^2.8.1"
+    }
+}
